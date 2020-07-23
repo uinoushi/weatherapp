@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/weatherapp/static/css/main.34de6062.chunk.css",
-    "main.js": "/weatherapp/static/js/main.f67c5d4a.chunk.js",
-    "main.js.map": "/weatherapp/static/js/main.f67c5d4a.chunk.js.map",
+    "main.css": "/weatherapp/static/css/main.56e8c646.chunk.css",
+    "main.js": "/weatherapp/static/js/main.a35fd2f5.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.a35fd2f5.chunk.js.map",
     "runtime-main.js": "/weatherapp/static/js/runtime-main.f16cac52.js",
     "runtime-main.js.map": "/weatherapp/static/js/runtime-main.f16cac52.js.map",
-    "static/js/2.3805012e.chunk.js": "/weatherapp/static/js/2.3805012e.chunk.js",
-    "static/js/2.3805012e.chunk.js.map": "/weatherapp/static/js/2.3805012e.chunk.js.map",
+    "static/js/2.00c8798c.chunk.js": "/weatherapp/static/js/2.00c8798c.chunk.js",
+    "static/js/2.00c8798c.chunk.js.map": "/weatherapp/static/js/2.00c8798c.chunk.js.map",
     "index.html": "/weatherapp/index.html",
-    "precache-manifest.0e7a0d0cfb1da6c20843ada4b491a426.js": "/weatherapp/precache-manifest.0e7a0d0cfb1da6c20843ada4b491a426.js",
+    "precache-manifest.1f601d8cbe5fcf96ee96d162be515b89.js": "/weatherapp/precache-manifest.1f601d8cbe5fcf96ee96d162be515b89.js",
     "service-worker.js": "/weatherapp/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/weatherapp/static/css/main.34de6062.chunk.css.map",
-    "static/js/2.3805012e.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.3805012e.chunk.js.LICENSE.txt",
-    "static/media/humidity.svg": "/weatherapp/static/media/humidity.f7efb53c.svg",
-    "static/media/thermometer.svg": "/weatherapp/static/media/thermometer.10a1d9ca.svg",
-    "static/media/wind.svg": "/weatherapp/static/media/wind.f435e6d9.svg"
+    "static/css/main.56e8c646.chunk.css.map": "/weatherapp/static/css/main.56e8c646.chunk.css.map",
+    "static/js/2.00c8798c.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.00c8798c.chunk.js.LICENSE.txt",
+    "static/media/humidity.svg": "/weatherapp/static/media/humidity.48f2ef02.svg",
+    "static/media/thermometer.svg": "/weatherapp/static/media/thermometer.e9ba701f.svg",
+    "static/media/wind.svg": "/weatherapp/static/media/wind.02315525.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f16cac52.js",
-    "static/js/2.3805012e.chunk.js",
-    "static/css/main.34de6062.chunk.css",
-    "static/js/main.f67c5d4a.chunk.js"
+    "static/js/2.00c8798c.chunk.js",
+    "static/css/main.56e8c646.chunk.css",
+    "static/js/main.a35fd2f5.chunk.js"
   ]
 }
